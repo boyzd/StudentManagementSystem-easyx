@@ -1,7 +1,0 @@
-#ifndef GATHER_H_INCLUDED
-#define GATHER_H_INCLUDED
-
-
-
-
-#endif // GATHER_H_INCLUDED

@@ -1,9 +1,0 @@
-﻿D:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ConsoleApplication2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  button.cpp
-  main.cpp
-  run.cpp
-  student.cpp
-  table.cpp
-  UI.cpp
-  正在生成代码...
-  ConsoleApplication2.vcxproj -> D:\课程\c\StudentManagementSystem\x64\Debug\SPSS.exe

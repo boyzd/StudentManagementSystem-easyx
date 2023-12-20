@@ -1,2 +1,0 @@
-D:\课程\c\ConsoleApplication2\x64\Debug\SPSS.exe
-D:\课程\c\StudentManagementSystem\x64\Debug\SPSS.exe
