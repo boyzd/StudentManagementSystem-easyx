@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1688653161 source:d:\课程\c课设\spms_zd\main.cpp
+	<iostream>
+	"UI.h"
+	"run.h"
+
+1687868037 d:\课程\c课设\spms_zd\gather.h
+
+1688964517 d:\课程\c课设\spms_zd\ui.h
+	<graphics.h>
+	<conio.h>
+	<string>
+	"button.h"
+	"run.h"
+	"string.h"
+	<time.h>
+	<vector>
+	<string>
+	"student.h"
+
+1688987284 source:d:\课程\c课设\spms_zd\ui.cpp
+	"UI.h"
+
+1687509824 source:d:\课程\c课设\spms_zd\image.cpp
+	"image.h"
+
+1687509824 d:\课程\c课设\spms_zd\image.h
+	<graphics.h>
+	<conio.h>
+
+1688987716 source:d:\课程\c课设\spms_zd\run.cpp
+	"run.h"
+
+1688964517 d:\课程\c课设\spms_zd\run.h
+	"UI.h"
+	<graphics.h>
+	<conio.h>
+	"table.h"
+	"button.h"
+
+1688986314 source:d:\课程\c课设\spms_zd\student.cpp
+	"student.h"
+
+1688986314 source:d:\课程\c课设\spms_zd\table.cpp
+	"table.h"
+
+1688986314 d:\课程\c课设\spms_zd\table.h
+	"button.h"
+	"student.h"
+	<iostream>
+
+1688986314 source:d:\课程\c课设\spms_zd\button.cpp
+	"button.h"
+
+1688986314 d:\课程\c课设\spms_zd\button.h
+	<iostream>
+	<string>
+	<graphics.h>
+	<conio.h>
+
+1688986314 d:\课程\c课设\spms_zd\student.h
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"table.h"
+	"run.h"
+
+1703066711 source:d:\课程\c课设\spms\button.cpp
+	"button.h"
+
+1703044953 d:\课程\c课设\spms\button.h
+	<iostream>
+	<string>
+	<graphics.h>
+	<conio.h>
+
+1688987863 source:d:\课程\c课设\spms\main.cpp
+	<iostream>
+	"UI.h"
+	"run.h"
+
+1703044953 d:\课程\c课设\spms\ui.h
+	<graphics.h>
+	<conio.h>
+	<string>
+	"button.h"
+	"run.h"
+	"string.h"
+	<time.h>
+	<vector>
+	<string>
+	"student.h"
+
+1703044953 d:\课程\c课设\spms\run.h
+	"UI.h"
+	<graphics.h>
+	<conio.h>
+	"table.h"
+	"button.h"
+
+1703044953 d:\课程\c课设\spms\table.h
+	"button.h"
+	"student.h"
+	<iostream>
+
+1703044953 d:\课程\c课设\spms\student.h
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"table.h"
+	"run.h"
+
+1688987716 source:d:\课程\c课设\spms\run.cpp
+	"run.h"
+
+1703067293 source:d:\课程\c课设\spms\student.cpp
+	"student.h"
+
+1703068492 source:d:\课程\c课设\spms\table.cpp
+	"table.h"
+
+1703066690 source:d:\课程\c课设\spms\ui.cpp
+	"UI.h"
+
